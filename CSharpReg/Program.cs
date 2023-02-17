@@ -104,12 +104,15 @@ namespace CSharpReg
                         }
                     }
                 }
-                // TODO: If-statement corrigeren
                 else if (keuze == "2")
                 {
-                    // TODO: Afmaken
+                    Console.WriteLine("Uitvoeren terugbetaling");
+                    Console.WriteLine("Bedrag originele bon?");
+                    double terugTeGeven = Console.ReadLine();
+                    Console.WriteLine("Reden retour?");
+                    string reden = Console.ReadLine();
+                    dagTotaalTerug = terugTeGeven;
                 }
-                // TODO: If-statement corrigeren
                 else if (keuze == "3")
                 {
                     // TODO: Afmaken
