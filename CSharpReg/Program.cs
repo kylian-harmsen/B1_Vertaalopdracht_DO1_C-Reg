@@ -16,6 +16,8 @@ namespace CSharpReg
             decimal dagTotaal = 0;
             int aantalBonnen = 0;
             decimal dagTotaalTerug = 0;
+            decimal inKassa = 0;
+            decimal terugTeGeven;
 
             while (keuze != "9")
             {
@@ -108,7 +110,7 @@ namespace CSharpReg
                 {
                     Console.WriteLine("Uitvoeren terugbetaling");
                     Console.WriteLine("Bedrag originele bon?");
-                    double terugTeGeven = Console.ReadLine();
+                    terugTeGeven = decimal.Parse(Console.ReadLine());
                     Console.WriteLine("Reden retour?");
                     string reden = Console.ReadLine();
                     dagTotaalTerug = terugTeGeven;
@@ -125,7 +127,7 @@ namespace CSharpReg
                 }
             }
             Console.WriteLine("Hoeveel zit er nu in de kassa?");
-            decimal inKassa = decimal.Parse(Console.ReadLine());
+            inKassa = decimal.Parse(Console.ReadLine());
             while (inKassa != (bedragInKassaBegin + dagTotaal - dagTotaalTerug))
             {
                 Console.WriteLine("Je hebt een kassaverschil! Tel de kassa opnieuw");
