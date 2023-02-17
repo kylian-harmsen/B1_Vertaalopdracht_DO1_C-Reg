@@ -115,7 +115,13 @@ namespace CSharpReg
                 }
                 else if (keuze == "3")
                 {
-                    // TODO: Afmaken
+                    Console.WriteLine("Kassa klopt, programma wordt afgesloten.");
+                    Console.WriteLine("======== DAGTOTALEN ========");
+                    Console.WriteLine("Aantal bonnen: " + aantalBonnen.ToString());
+                    Console.WriteLine("Verkocht:      " + dagTotaal.ToString());
+                    Console.WriteLine("Totaal retour: " + dagTotaalTerug.ToString());
+                    Console.WriteLine("In kassa:      " + inKassa.ToString());
+                    Console.WriteLine("============================");
                 }
             }
             Console.WriteLine("Hoeveel zit er nu in de kassa?");
