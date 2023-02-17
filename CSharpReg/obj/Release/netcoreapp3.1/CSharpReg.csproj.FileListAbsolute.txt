@@ -1,0 +1,14 @@
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Release\netcoreapp3.1\CSharpReg.exe
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Release\netcoreapp3.1\CSharpReg.deps.json
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Release\netcoreapp3.1\CSharpReg.runtimeconfig.json
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Release\netcoreapp3.1\CSharpReg.runtimeconfig.dev.json
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Release\netcoreapp3.1\CSharpReg.dll
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Release\netcoreapp3.1\CSharpReg.pdb
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.csproj.AssemblyReference.cache
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.AssemblyInfoInputs.cache
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.AssemblyInfo.cs
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.csproj.CoreCompileInputs.cache
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.dll
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.pdb
+C:\C# map\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.genruntimeconfig.cache
