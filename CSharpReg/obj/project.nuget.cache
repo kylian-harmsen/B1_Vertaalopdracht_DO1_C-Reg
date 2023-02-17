@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6tK7pXmU7cZ2uwecItjXbB6/VCHLV0pa3hYmMNP9xCNaCvEu3wzCPwtQmMvcOiYlz1ls4maq932YoNRuQ3qjWg==",
+  "dgSpecHash": "OWj9PRa3skRfJQIdWq9FZRZmw1OSx1xTotBMzHKHdRGV3eexzcGF6vIRlIfyhS/povEII4cvEM+jdHvFK/txcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\harms\\OneDrive - Curio\\homework\\B1_Vertaalopdracht_DO1_C-Reg\\CSharpReg\\CSharpReg.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\harms\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\harms\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\harms\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\harms\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\C# map\\B1_Vertaalopdracht_DO1_C-Reg\\CSharpReg\\CSharpReg.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
